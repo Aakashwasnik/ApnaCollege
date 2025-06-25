@@ -1,0 +1,31 @@
+h1{
+    color: blue !important;
+}
+h1{
+
+    color: pink;
+}
+#greet{
+    color: yellow;
+}
+.myclass{
+    color: brown;
+}
+div p{
+    background-color: black;
+}
+.name{
+    background-color: blue;
+}
+p{
+    background-color: aqua;
+}
+div.greetDiv.greet{
+    color: green;
+}
+.greetDiv p.greet{
+    color: blue;
+}
+.greetDiv.greet{
+    color: red;
+}
